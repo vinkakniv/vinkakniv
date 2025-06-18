@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://vinka-alrezky.vercel.app">Portfolio Website</a> • 
   <a href="mailto:vinka.aeris@gmail.com">Email</a> • 
-  <a href="https://www.linkedin.com/in/vinka-alrezky">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/vinka-alrezky-a-6b6a19245/">LinkedIn</a>
 </p>
 
 ---
